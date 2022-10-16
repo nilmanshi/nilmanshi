@@ -6,7 +6,7 @@ Aspiring web developer and designer
 
 * 🌍  I'm based in india
 * ✉️  You can contact me at [nilmanshi.2125ec1081@kiet.edu](mailto:nilmanshi.2125ec1081@kiet.edu)
-* 🧠  I'm learning python
+* 🧠  I'm learning python and Web Development.
 
 ### Skills
 
